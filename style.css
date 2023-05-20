@@ -1,0 +1,36 @@
+body {
+	background: #fefefe;
+	margin: auto;
+	max-width:1000px;
+}
+
+.top {
+	background: #cccccc;
+	border: 3px solid #acacac;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.menu{
+	background: #cccccc;
+	text-align: center;
+	border: 3px solid #acacac;
+}
+.footer {
+	background: #cccccc;
+	text-align: center;
+	border: 3px solid #acacac;
+}
+.O czym jest ta strona{
+	margin:0px 15px; 
+}
+
+a {
+	color: #6b1d1d;
+	font-size: 20px;
+}
+
+CSS
+html, body {
+    scroll-behavior: smooth;
+}
